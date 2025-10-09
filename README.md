@@ -14,10 +14,10 @@ I build learning-by-doing projects — from Monte Carlo pricing and backtests to
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python, Java, C/C++, SQL  
+## Tech Stack
+**Languages:** Python, Java, C/C++, MATLAB  
 **ML/DS:** NumPy, Pandas, Matplotlib, PyTorch, scikit-learn  
-**Data & Apps:** Jupyter/Colab, FastF1, Plotly, Streamlit  
+**Data & Apps:** Jupyter/Colab, FastF1, Plotly, Streamlit, Solidworks
 **Tools:** Git/GitHub, VS Code
 
 ---
@@ -29,4 +29,4 @@ I build learning-by-doing projects — from Monte Carlo pricing and backtests to
 
 ---
 
-📫 **Reach me:** _add LinkedIn/email link here_
+📫 **Reach me:** marwangabarr@gmail.com
