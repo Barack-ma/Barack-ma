@@ -1,7 +1,5 @@
 ﻿# 👋 Hi, I'm Barack
-
-🎓 **ECE major** exploring **Quant Finance**, **Machine Learning**, and **F1 Data Analytics**.  
-I build learning-by-doing projects — from Monte Carlo pricing and backtests to FastF1 telemetry analysis.
+ECE student building projects across AI/ML, systems engineering, data engineering, and quantitative finance.
 
 ---
 
@@ -9,8 +7,8 @@ I build learning-by-doing projects — from Monte Carlo pricing and backtests to
 | Category | Repository | Summary |
 |---|---|---|
 | 🧮 Quant Finance | [quant-lab](https://github.com/Barack-ma/quant-lab) | Monte Carlo option pricing, strategy backtesting, volatility models |
-| 🏎️ F1 Analytics | [f1-analytics](https://github.com/Barack-ma/f1-analytics) | FastF1 telemetry, driver performance, visualizations & dashboards |
-| 🎓 University Projects | [uni-projects](https://github.com/Barack-ma/uni-projects) | OOP Java project + ECE labs and coursework |
+| 🏎️ Applied AI & ML projects | [f1-analytics](https://github.com/Barack-ma/f1-analytics) | ML experiments, F1 prediction, AI agents, automation, data analysis |
+| 🎓 Systems & Engineering Projects | [uni-projects](https://github.com/Barack-ma/uni-projects) | Computer architecture, FPGA, MIPS, software engineering coursework |
 
 ---
 
