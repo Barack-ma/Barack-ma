@@ -7,7 +7,7 @@ ECE student building projects across AI/ML, systems engineering, data engineerin
 | Category | Repository | Summary |
 |---|---|---|
 | 🧮 Quant Finance | [quant-lab](https://github.com/Barack-ma/quant-finance_lab) | Monte Carlo option pricing, strategy backtesting, volatility models |
-| 🏎️ Applied AI & ML projects | [f1-analytics](https://github.com/Barack-ma/f1-analytics) | ML experiments, F1 prediction, AI agents, automation, data analysis |
+| 🏎️ Applied AI & ML projects | [f1-analytics](https://github.com/Barack-ma/Applied-AI-ML-projects) | ML experiments, F1 prediction, AI agents, automation, data analysis |
 | 🎓 Systems & Engineering Projects | [uni-projects](https://github.com/Barack-ma/uni-projects) | Computer architecture, FPGA, MIPS, software engineering coursework |
 
 ---
