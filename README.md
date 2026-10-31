@@ -1,30 +1,27 @@
-﻿# 👋 Hi, I'm Barack
-ECE student building projects across AI/ML, systems engineering, data engineering, and quantitative finance.
+# Hi, I'm Barack 👋
 
----
+I'm an Electrical & Computer Engineering student at the University of Arizona, interested in embedded systems, computer architecture, software engineering, and quantitative computing.
 
-## 🚀 Featured Projects
-| Category | Repository | Summary |
-|---|---|---|
-| 🧮 Quant Finance | [quant-lab](https://github.com/Barack-ma/quant-finance_lab) | Monte Carlo option pricing, strategy backtesting, volatility models |
-| 🏎️ Applied AI & ML projects | [Applied-AI-ML_projects](https://github.com/Barack-ma/Applied-AI-ML-projects) | ML experiments, F1 prediction, AI agents, automation, data analysis |
-| 🎓 Systems & Engineering Projects | [engineering_projects](https://github.com/Barack-ma/engineering_projectss) | Computer architecture, FPGA, MIPS, software engineering coursework |
+## Selected work
 
----
+| Area | Repository | What's inside |
+| --- | --- | --- |
+| Computer architecture / RTL | [Engineering Projects](https://github.com/Barack-ma/engineering_projects) | Verilog hardware modules for a MIPS-oriented SAD block-matching project |
+| Software / data | [FinAgent](https://github.com/Barack-ma/finagent) | Python application code, tests, and database migrations; see repository for implementation details |
+| Computational physics | [PHYS 305](https://github.com/Barack-ma/ua-2025q1-phys305.github.io) | Computational physics course materials and Jupyter Book |
+| Quantitative finance | [Quantitative Finance Lab](https://github.com/Barack-ma/quant-finance_lab) | Work-in-progress project workspace |
+| Applied ML | [Applied AI/ML Projects](https://github.com/Barack-ma/Applied-AI-ML-projects) | Work-in-progress project workspace |
 
-## Tech Stack
-**Languages:** Python, Java, C/C++, MATLAB  
-**ML/DS:** NumPy, Pandas, Matplotlib, PyTorch, scikit-learn  
-**Data & Apps:** Jupyter/Colab, FastF1, Plotly, Streamlit, Solidworks
-**Tools:** Git/GitHub, VS Code
+## Technologies
 
----
+**Languages:** C/C++, Python, Verilog, MATLAB  
+**Areas of interest:** Embedded systems, digital logic, computer architecture, algorithms, data analysis and quantitative finance  
+**Tools:** Git/GitHub, JetBrains IDEs, Jupyter
 
-## 📌 What I’m Learning Now
-- Practical ML via Colab notebooks  
-- Quant research (backtesting & risk management)  
-- API integrations (FastF1) and data storytelling
+## Currently building
 
----
+- A documented portfolio of embedded-systems and computer-architecture projects
+- Stronger C++ and algorithmic problem-solving skills
+- Applied programming and quantitative computing projects
 
-📫 **Reach me:** marwangabarr@gmail.com
+> Portfolio projects are documented according to their current implementation status. Work-in-progress repositories are not presented as completed systems.
