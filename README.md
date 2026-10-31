@@ -6,9 +6,8 @@ I'm an Electrical & Computer Engineering student at the University of Arizona, i
 
 | Area | Repository | What's inside |
 | --- | --- | --- |
-| Computer architecture / RTL | [Engineering Projects](https://github.com/Barack-ma/engineering_projects) | Verilog hardware modules for a MIPS-oriented SAD block-matching project |
+| Computer architecture / RTL | [Engineering Projects](https://github.com/Barack-ma/engineering_projects) | Verilog computer architecture and ECE 372A embedded systems projects |
 | Software / data | [FinAgent](https://github.com/Barack-ma/finagent) | Python application code, tests, and database migrations; see repository for implementation details |
-| Computational physics | [PHYS 305](https://github.com/Barack-ma/ua-2025q1-phys305.github.io) | Computational physics course materials and Jupyter Book |
 | Quantitative finance | [Quantitative Finance Lab](https://github.com/Barack-ma/quant-finance_lab) | Work-in-progress project workspace |
 | Applied ML | [Applied AI/ML Projects](https://github.com/Barack-ma/Applied-AI-ML-projects) | Work-in-progress project workspace |
 
