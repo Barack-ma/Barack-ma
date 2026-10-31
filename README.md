@@ -23,4 +23,3 @@ I'm an Electrical & Computer Engineering student at the University of Arizona, i
 - Stronger C++ and algorithmic problem-solving skills
 - Applied programming and quantitative computing projects
 
-> Portfolio projects are documented according to their current implementation status. Work-in-progress repositories are not presented as completed systems.
